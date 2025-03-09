@@ -1,0 +1,2 @@
+# Smart-Adaptive-Streetlight-System-for-Energy-Efficient-Smart-Cities
+Smart Adaptive Streetlight System for Energy-Efficient Smart Cities is a simulation-based project that showcases an intelligent street lighting system capable of dynamically adjusting brightness based on real-time vehicle movement. This system optimizes energy consumption while ensuring road safety and sustainability in smart cities.
