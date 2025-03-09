@@ -41,6 +41,6 @@ pip install pygame streamlit
 6. Energy consumption values
 
 ## Future Improvements
--🔹 Integrate real-world traffic data using AI models.
--🔹 Add machine learning for smarter energy predictions.
--🔹 Simulate pedestrian detection for enhanced streetlight control.
+- Integrate real-world traffic data using AI models.
+- Add machine learning for smarter energy predictions.
+- Simulate pedestrian detection for enhanced streetlight control.
