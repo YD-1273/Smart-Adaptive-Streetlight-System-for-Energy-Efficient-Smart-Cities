@@ -10,10 +10,10 @@ This project simulates an intelligent street lighting system that dynamically ad
 - Dashboard Monitoring – Displays live streetlight statuses and real-time energy consumption.
 
 ## Technology Stack
--Python – Core programming language
--Pygame – Vehicle movement simulation
--Streamlit – Interactive dashboard for real-time monitoring
--Multithreading – Runs simulation and dashboard simultaneously
+- on – Core programming language
+- Pygame – Vehicle movement simulation
+- Streamlit – Interactive dashboard for real-time monitoring
+- Multithreading – Runs simulation and dashboard simultaneously
 
 ## Installation & Setup
 1️. Clone the Repository
