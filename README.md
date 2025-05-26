@@ -18,7 +18,7 @@ This project simulates an intelligent street lighting system that dynamically ad
 ## Installation & Setup
 1️. Clone the Repository
 ```bash
-git clone https://github.com/YKD-1273/Smart-Adaptive-Streetlight-System-for-Energy-Efficient-Smart-Cities.git
+git clone https://github.com/YD-1273/Smart-Adaptive-Streetlight-System-for-Energy-Efficient-Smart-Cities.git
 cd Smart-Adaptive-Streetlight-System-for-Energy-Efficient-Smart-Cities
 ```
 2. Install Dependencies
